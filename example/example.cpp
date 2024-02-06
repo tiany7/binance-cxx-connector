@@ -4,8 +4,8 @@
 #include <string>
 
 
-#include "binacpp.h"
-#include "binacpp_websocket.h"
+#include "../lib/libbinacpp/include/binacpp.h"
+#include "lib/include/binacpp_websocket.h"
 #include <json/json.h>
 
 #define API_KEY 		"api key"
